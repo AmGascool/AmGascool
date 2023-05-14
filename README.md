@@ -8,17 +8,17 @@
 
 I am a yong Developer who is exploring Go and Python :wink:
  
- 🔭 I’m planning for a Project **Vision: Coding Happy**.
+ 🔭 I’m planning for a **Vision: Coding Happy**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Cloud Development
  
  :books: I want to learn <img src="https://img.shields.io/badge/-go-3a495d?style=flat&logo=go&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-python-black?style=flat&logo=python&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Vue and Go project **Doc App**.
+ 👯 I’m looking to collaborate for a Vue and Go project **DEall App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/AmGascool/Github-Cards-External-Blogs).
- 
- 💬 I’m looking for study more.
+ 🤔 I’m looking for more chance to studying coding.
+
+ 💬 Nice to meet you.
 
 
 ![Profile views](https://gpvc.arturio.dev/AmGascool)  <img src="https://img.shields.io/github/followers/AmGascool?label=Follow" style=" float:left, margin-right:10px" />
@@ -57,14 +57,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/A
 
 
 <br/>
-
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.AmGascool.vercel.app/getMediumBlogs?username=AmGascool&type=vertical)](https://medium.com/@AmGascool)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/AmGascool/Github-Cards-External-Blogs) 
 
 ---
 
